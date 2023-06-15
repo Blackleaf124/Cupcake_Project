@@ -1,0 +1,6 @@
+size,flavor,name,price,filling,glutenFree,sprinkles
+mini,Triple Chocolate,Chocolate Overkill,2.99,,False,"['White Chocolate', 'Dark Chocolate', 'Vanilla']"
+mini,Vanilla cinnamon,Lil' Spicy,0.5,,False,['Cinnamon']
+mini,Vanilla Strawberry,Strawberry Short cup,0.5,,True,"['Strawberry', 'Vanilla']"
+mini,Chocolate Chip,Choco chip,2.99,,False,[]
+mini,Red Velvet,Scarlet Mountain,2.99,,True,"['White Chocolate', 'Dark Chocolate', 'Vanilla']"
